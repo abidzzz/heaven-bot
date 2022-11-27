@@ -13,7 +13,6 @@ To add anime to the list just type the name in channel
 <img src="image1.PNG"></image>
 <img src="image2.PNG"></image>
 <br>
-Has genre command for viewing all anime you have watched with specific genre
 <img src="image3.PNG"></image>
 <img src="image4.PNG"></image>
 <img src="image5.PNG"></image>
