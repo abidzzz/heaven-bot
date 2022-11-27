@@ -5,6 +5,20 @@
 # Heaven-bot
 A discord bot i made for storing my anime list in a server
 
+## Features
+<p align="left">
+<img src="image.png"></image>
+
+To add anime to the list just type the name in channel 
+<img src="image1.PNG"></image>
+<img src="image2.PNG"></image>
+
+Has genre command for viewing all anime you have watched with specific genre
+<img src="image3.PNG"></image>
+<img src="image4.PNG"></image>
+<img src="image5.PNG"></image>
+</p>
+
 ## Licence
 
 [Apache License 2.0](https://github.com/obitozx/Saigo/blob/main/LICENSE)
